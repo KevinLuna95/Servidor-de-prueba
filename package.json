@@ -1,0 +1,22 @@
+{
+  "name": "servidor-de-prueba",
+  "version": "1.0.0",
+  "description": "my furst server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinLuna95/Servidor-de-prueba.git"
+  },
+  "author": "Kevin-Luna-Botey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinLuna95/Servidor-de-prueba/issues"
+  },
+  "homepage": "https://github.com/KevinLuna95/Servidor-de-prueba#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

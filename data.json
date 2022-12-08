@@ -1,0 +1,63 @@
+{
+    "boardgames": [
+        {
+        "id": "1",
+        "name": "catan",
+        "players": "2-4",
+        "duration": "60 min",
+        "rating": "5",
+        "price": "40€"
+        },
+        {
+        "id": "2",
+        "name": "mundodisco",
+        "players": "2-4",
+        "duration": "60 min",
+        "rating": "5",
+        "price": "35€"
+        },
+        {
+        "id": "3",
+        "name": "dixit",
+        "players": "2-6",
+        "duration": "60 min",
+        "rating": "5",
+        "price": "40€"
+        }
+    ],
+    "videogames":
+    [
+        {
+            "id": "4",
+            "name": "call of duty",
+            "type": "MOBA",
+            "console": "xbox",
+            "rating": "5",
+            "price": "50€"   
+        },
+        {
+            "id": "5",
+            "name": "mario bros",
+            "type": "platform",
+            "console": "nintendo",
+            "rating": "4,5",
+            "price": "40€"   
+        },
+        {
+            "id": "6",
+            "name": "super smash bros browl",
+            "type": "platform",
+            "console": "nintedo",
+            "rating": "5",
+            "price": "60€"   
+        },
+        {
+            "id": "7",
+            "name": "harry potter",
+            "type": "MOBA",
+            "console": "Xbox",
+            "rating": "5",
+            "price": "50€"   
+        }
+    ]
+}
